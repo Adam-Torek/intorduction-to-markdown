@@ -9,3 +9,7 @@ class WaterRations {
     }
 }
 ```
+
+- [x] Arrive at Saturn's Rings
+- [x] Check Current Inventory
+- [ ] Find Suitable Comets for Loading
